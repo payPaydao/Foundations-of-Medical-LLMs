@@ -32,9 +32,9 @@
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第二部分 ：医疗大模型的技术基石</a></b></td>
-        <td>4 核心架构：Transformer与自注意力机制</td>
-        <td>5 大模型的训练生命周期</td>
-        <td>6 外挂大脑：检索增强生成（RAG）与提示工程</td>
+        <td style="width: 25%;"><a href="content/chapter4.pdf">4 大模型的心脏：Transformer架构</a></td>
+        <td style="width: 25%;"><a href="content/chapter5.pdf">5 大模型的炼丹术：预训练与微调</a></td>
+        <td style="width: 25%;"><a href="content/chapter6.pdf">6 让大模型更聪明：提示词工程与外挂大脑</a></td>
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第三部分：从通用领域到医疗垂直领域</a></b></td>
