@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第四部分：前沿临床与科研应用</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter-11.pdf">11 临床辅助决策与智能问诊</td>
+        <td>11 临床辅助决策与智能问诊</td>
         <td>11 医学科研辅助</td>
         <td>12 多模态医疗大模型</td>
     </tr>
